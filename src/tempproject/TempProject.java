@@ -17,6 +17,7 @@ public class TempProject {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello cái dcm git nhu lòn");
+        System.out.println("Hello cái dcm git nhu lòn nhưng là dòng 2");
     }
     
 }
